@@ -1,0 +1,11 @@
+this is a file
+this is a line
+.
+.
+.
+.
+.
+.
+.
+.
+this is end of file
