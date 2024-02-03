@@ -4,7 +4,7 @@ this is a line
 .
 .
 .
-.
+file is updated
 .
 .
 .
