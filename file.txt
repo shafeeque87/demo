@@ -1,5 +1,6 @@
 this is a file(changed)
 this is a line
 this should not be there.
+this should not be there.
 file is updated
 this is end of file
